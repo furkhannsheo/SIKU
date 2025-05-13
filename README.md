@@ -5,7 +5,9 @@ Username: admin | Password: admin
 Sistem Informasi Keuangan adalah aplikasi yang dibuat dengan tujuan untuk memudahkan pengguna melakukan manajemen keuangan pribadi, perusahaan, instansi dan lain-lain.
 
 fitur dari aplikasi ini adalah sebagai berikut :
+
 01 - Menggunakan template AdminLTE pada halaman dashboard
+
 02 - CRUD data kategori untuk pengeluaran atau pemasukan
 03 - Pengelolaan transaksi pengeluaran dan pemasukan
 04 - Pengelolaan akun rekening bank
